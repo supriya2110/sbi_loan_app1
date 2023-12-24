@@ -8,6 +8,7 @@
     <groupId>org.springframework</groupId>
     <artifactId>spring-context</artifactId>
     <version>5.3.25</version>
+<scope>runtime</scope>
 </dependency>
   </dependencies>
 </project>
